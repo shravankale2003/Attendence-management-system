@@ -1,0 +1,32 @@
+Student attendance management system in PHP MySQL with Free source code
+By
+CodingAbel
+August 10, 2023
+Write a Commenton Student attendance management system in PHP MySQL with Free source code
+2 min read
+Student attendance management system
+This PHP attendance system project is mainly concerned with managing student attendance and records. In the overview of this web application, the administrator has the ability to create users and insert student and teacher data. Other than that, the student has access to attendance records and reports only.
+
+Student Management System. Here you can easily take student attendance by adding any class and assigning a teacher. The following are the cases in which this can occur:
+You can add students.
+You can add teachers.
+You can add classes.
+You can add sections.
+Teachers can be assigned in section form.
+Also, different teachers can take attendance in different classes.
+and etc functions are there.
+
+In this video, we will create a student attendance management system in PHP MySQL with source code in Codingabel. This system will allow us to keep track of our students’ attendance and will allow us to inform parents of their child’s attendance status.
+
+This is a complete and detailed video, perfect for anyone looking to create a Student Attendance Management System in PHP MySQL. We’ll guide you through every step of the project, from system design to source code creation. If you are interested in learning more about building robust online systems, then this video is for you!
+
+In this video, we will show you how to create a student attendance management system in PHP MySQL using source code in Codingabel. The source code is available at our Codingabel.com The system will be able to manage student attendance, register them, generate reports and much more.
+
+** Admin Login Details **
+
+Email : admin@mail.com
+Password: Password@123
+Teacher Login Details
+
+Email : teacher@mail.com
+Password: pass123
